@@ -1,4 +1,4 @@
-# Watch using ATtiny85 with Arduino platform but almost AVR programming
+# Wearable watch using ATtiny85 with Arduino platform but almost AVR programming
 ## This is my Theory of Electrical Circuits Project (CE121 in UIT).
 Nothing to say, there is my proudest project. \
 Hope you can enjoy it. \
